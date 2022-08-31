@@ -1,0 +1,7 @@
+{
+  "name": "evalperf-challenges",
+  "jest": {
+    "verbose": true
+  },
+  "reporters": ["default", "./custom-report.js", "summary"]
+}
